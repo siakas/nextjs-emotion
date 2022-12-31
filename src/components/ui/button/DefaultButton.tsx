@@ -1,5 +1,5 @@
 const DefaultButton = () => {
-  return <button>サンプル</button>;
-};
+  return <button>サンプル</button>
+}
 
-export default DefaultButton;
+export default DefaultButton
